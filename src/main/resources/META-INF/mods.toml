@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="waltenfiles"
+version="1.0.0"
+displayName="The Walten Files: Terror"
+description='''
+Mod de terror inspirado no analog horror The Walten Files (fan made, nao oficial).
+Restaurante, projeto K9, floresta de Saint Juana, personagens, animatronicos, TV e fitas cassete.
+'''
+
+[[dependencies.waltenfiles]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.waltenfiles]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

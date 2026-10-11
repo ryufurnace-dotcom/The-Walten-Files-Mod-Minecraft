@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "waltenfiles:block/tv_retro"
+    },
+    "facing=east": {
+      "model": "waltenfiles:block/tv_retro",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "waltenfiles:block/tv_retro",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "waltenfiles:block/tv_retro",
+      "y": 270
+    }
+  }
+}

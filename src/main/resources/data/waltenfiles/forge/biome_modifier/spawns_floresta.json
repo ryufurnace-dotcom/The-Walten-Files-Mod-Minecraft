@@ -1,0 +1,30 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#waltenfiles:floresta_saint_juana",
+  "spawners": [
+    {
+      "type": "waltenfiles:shadow_man",
+      "weight": 4,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "waltenfiles:felix_kraken",
+      "weight": 3,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "waltenfiles:edd_walten",
+      "weight": 2,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "type": "waltenfiles:molly_walten",
+      "weight": 2,
+      "minCount": 1,
+      "maxCount": 1
+    }
+  ]
+}
